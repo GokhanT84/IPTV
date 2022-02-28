@@ -1,37 +1,37 @@
 #EXTM3U
 #EXTINF:-1,TRT 1 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/57
-#EXTINF:-1,TRT 1 HD +
+#EXTINF:-1,TRT 1 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/861
 #EXTINF:-1,ATV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/58
-#EXTINF:-1,ATV HD +
+#EXTINF:-1,ATV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/858
 #EXTINF:-1,Show TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/60
-#EXTINF:-1,Show TV HD +
+#EXTINF:-1,Show TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/857
 #EXTINF:-1,Kanal D HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/59
-#EXTINF:-1,Kanal D HD +
+#EXTINF:-1,Kanal D HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/859
 #EXTINF:-1,Star TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/61
-#EXTINF:-1,Star TV HD +
+#EXTINF:-1,Star TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/855
 #EXTINF:-1,FOX TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/65
-#EXTINF:-1,FOX TV HD +
+#EXTINF:-1,FOX TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/856
 #EXTINF:-1,TV 8 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/62
-#EXTINF:-1,TV 8 HD +
+#EXTINF:-1,TV 8 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/860
-#EXTINF:-1,TV 8.5 HD
+#EXTINF:-1,TV 8,5 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/984
 #EXTINF:-1,Kanal 7 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/67
-#EXTINF:-1,Kanal 7 HD +
+#EXTINF:-1,Kanal 7 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/2442
 #EXTINF:-1,A2 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1004
@@ -39,19 +39,19 @@ http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1004
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/385
 #EXTINF:-1,Show Max HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/3070
-#EXTINF:-1,TRT 2 HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1035
 #EXTINF:-1,Beyaz TV HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/417
 #EXTINF:-1,360 HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/340
-#EXTINF:-1,Disney Channel TR
+#EXTINF:-1,TRT 2 HD
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1035
+#EXTINF:-1,Disney Channel
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/382
-#EXTINF:-1,Disney Junior TR
+#EXTINF:-1,Disney Junior
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1070
-#EXTINF:-1,Cartoon Network TR
+#EXTINF:-1,Cartoon Network
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/321
-#EXTINF:-1,Nickelodeon TR
+#EXTINF:-1,Nickelodeon
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1293
 #EXTINF:-1,Nick Jr.
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1292
@@ -67,33 +67,15 @@ http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/344
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/68
 #EXTINF:-1,TGRT Belgesel
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/3082
-#EXTINF:-1,Cnn Türk HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/305
-#EXTINF:-1,Cnn Türk HD +
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1317
-#EXTINF:-1,Haberturk HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/66
-#EXTINF:-1,Haberturk HD +
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1316
-#EXTINF:-1,NTV HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/401
-#EXTINF:-1,NTV HD +
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1319
-#EXTINF:-1,A Haber HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/63
-#EXTINF:-1,A Haber HD +
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1318
-#EXTINF:-1,Haber Global HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/3052
 #EXTINF:-1,TRT Haber HD
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/343
-#EXTINF:-1,TGRT Haber
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1786
-#EXTINF:-1,KANAL 24 HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/1785
-#EXTINF:-1,Ekoturk
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/3080
-#EXTINF:-1,TH Turkhaber HD
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/948
+#EXTINF:-1,A Haber HD
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/63
+#EXTINF:-1,Cnn Türk HD
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/305
+#EXTINF:-1,Haberturk HD
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/66
+#EXTINF:-1,NTV HD
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/401
 #EXTINF:-1,Bloomberg HT
 http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/341
